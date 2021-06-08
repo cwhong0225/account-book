@@ -69,3 +69,6 @@ class AccountBookForm extends Component {
 }
 
 export default AccountBookForm;
+
+/*구글링을 해서 가계부 기능을 먼저 구현하려고 하고 있는데 뭔가...오류가 뜹니다
+무슨 오류인지도 어디를 손대야 할지도 동기부여 부분을 어떻게 구현할지도 디자인은 어떻게 할지도 일단 대체 뭘 해야하는지도.. 잘 모르겠습니다ㅠㅠ..*/
